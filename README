@@ -1,8 +1,8 @@
-#1. Propósito
+## 1. Propósito
 
 O sistema de Cadastro de Produtos em Python tem como objetivo auxiliar na gestão de produtos de um pequeno negócio ou organização. O sistema permite cadastrar, consultar, atualizar e excluir produtos, facilitando o controle do estoque e a organização das informações.
 
-2. Funcionalidades
+## 2. Funcionalidades
 
 Cadastro de produtos: Permite registrar o nome, descrição, preço e quantidade em estoque de cada produto.
 
@@ -12,7 +12,7 @@ Atualização de produtos: Permite alterar as informações de um produto já ca
 
 Exclusão de produtos: Permite remover um produto do sistema.
 
-3. Usuários
+## 3. Usuários
 
 Proprietários de pequenos negócios: que desejam controlar o estoque de seus produtos de forma simples e eficiente.
 
